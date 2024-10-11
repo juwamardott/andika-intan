@@ -13,7 +13,7 @@ module.exports = {
         transparent: "transparent",
         current: "currentColor",
         color1: "#8f7767",
-        color2: "#a68229",
+        color2: "#fcffef",
         midnight: "#121063",
         metal: "#565584",
         tahiti: "#3ab7bf",
